@@ -23,4 +23,3 @@ cd push-dc
 ```
 python main.py
 ```
-Created : bgpateng
